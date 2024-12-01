@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Đức Luân</h1>
-<h3 align="center">Information Security Student - Honor Program</h3>
+<h3 align="center">Information Security Student - Talented Program</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Luan4869](https://github.com/Luan4869)
 
